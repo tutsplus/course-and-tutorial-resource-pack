@@ -7,3 +7,7 @@ It can be tricky to find assets and resources for your tutorial or course that h
 - Patterns
 - Icons
 - Slide Templates
+
+## Including the License File
+
+All you need to remember is that you must include the appropriate license file, if you’re using any of these in a source file download with your tutorial or course. That’s it!
